@@ -1,0 +1,636 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name": "UHI ESOL travel vocabulary",
+    "date": "2026-11-18",
+    "language": "English",
+    "translation_language": "Russian"
+  },
+  "entries": [
+    {
+      "id": "breathtaking",
+      "english": "breathtaking",
+      "part_of_speech": "adjective",
+      "category": "positive",
+      "translations_ru": [
+        "захватывающий дух",
+        "потрясающий",
+        "восхитительный",
+        "изумительный",
+        "невероятно красивый"
+      ],
+      "example_en": "The view over the Scottish Highlands was breathtaking.",
+      "example_ru": "Вид на Шотландское нагорье захватывал дух.",
+      "usage_note_ru": "Обычно о видах, природе и сильных приятных впечатлениях.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "iconic",
+      "english": "iconic",
+      "part_of_speech": "adjective",
+      "category": "positive",
+      "translations_ru": [
+        "знаковый",
+        "культовый",
+        "легендарный",
+        "знаменитый",
+        "узнаваемый",
+        "символичный"
+      ],
+      "example_en": "We visited London's iconic Tower Bridge.",
+      "example_ru": "Мы посетили знаменитый Тауэрский мост в Лондоне.",
+      "usage_note_ru": "Об известном месте или символе города.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "imposing",
+      "english": "imposing",
+      "part_of_speech": "adjective",
+      "category": "positive",
+      "translations_ru": [
+        "внушительный",
+        "величественный",
+        "грандиозный",
+        "монументальный",
+        "впечатляющий",
+        "представительный"
+      ],
+      "example_en": "An imposing castle stands above the town.",
+      "example_ru": "Над городом возвышается величественный замок.",
+      "usage_note_ru": "О здании или объекте, производящем сильное впечатление своим размером или видом.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "lively",
+      "english": "lively",
+      "part_of_speech": "adjective",
+      "category": "positive",
+      "translations_ru": [
+        "оживлённый",
+        "полный жизни",
+        "энергичный",
+        "шумный",
+        "бойкий",
+        "динамичный"
+      ],
+      "example_en": "The old town has a lively atmosphere in the evening.",
+      "example_ru": "По вечерам в старом городе царит оживлённая атмосфера.",
+      "usage_note_ru": "«Шумный» может восприниматься и отрицательно в зависимости от контекста.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "off-the-beaten-track",
+      "english": "off the beaten track",
+      "part_of_speech": "idiom / adjective phrase",
+      "category": "positive",
+      "translations_ru": [
+        "в стороне от проторённых маршрутов",
+        "вдали от популярных туристических маршрутов",
+        "в стороне от туристических троп",
+        "малоизвестный туристам",
+        "нетуристический",
+        "вдали от массового туризма"
+      ],
+      "example_en": "We found a quiet village off the beaten track.",
+      "example_ru": "Мы нашли тихую деревню вдали от популярных туристических маршрутов.",
+      "usage_note_ru": "Чаще об интересных, но мало посещаемых туристами местах.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "picturesque",
+      "english": "picturesque",
+      "part_of_speech": "adjective",
+      "category": "positive",
+      "translations_ru": [
+        "живописный",
+        "красочный",
+        "колоритный",
+        "очаровательный",
+        "словно с картинки"
+      ],
+      "example_en": "We stayed in a picturesque fishing village.",
+      "example_ru": "Мы остановились в живописной рыбацкой деревушке.",
+      "usage_note_ru": "Часто о деревнях, улицах, пейзажах.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "unspoilt",
+      "english": "unspoilt",
+      "part_of_speech": "adjective",
+      "category": "positive",
+      "translations_ru": [
+        "нетронутый",
+        "первозданный",
+        "сохранивший природную красоту",
+        "неиспорченный",
+        "не затронутый массовым туризмом",
+        "хорошо сохранившийся"
+      ],
+      "example_en": "The island has unspoilt beaches and forests.",
+      "example_ru": "На острове есть нетронутые пляжи и леса.",
+      "usage_note_ru": "Британское написание unspoilt; вариант unspoiled.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "chill-out",
+      "english": "chill out",
+      "part_of_speech": "phrasal verb",
+      "category": "positive",
+      "translations_ru": [
+        "расслабиться",
+        "отдохнуть",
+        "отвлечься от забот",
+        "расслабляться",
+        "провести время спокойно",
+        "отдыхать без спешки"
+      ],
+      "example_en": "We spent the afternoon chilling out by the sea.",
+      "example_ru": "Мы провели вторую половину дня, расслабляясь у моря.",
+      "usage_note_ru": "Разговорное выражение.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "get-away",
+      "english": "get away",
+      "part_of_speech": "phrasal verb",
+      "category": "positive",
+      "translations_ru": [
+        "уехать отдохнуть",
+        "вырваться из повседневной рутины",
+        "сменить обстановку",
+        "выбраться куда-нибудь",
+        "сбежать от суеты",
+        "отправиться ненадолго в поездку"
+      ],
+      "example_en": "We want to get away for the weekend.",
+      "example_ru": "Мы хотим куда-нибудь выбраться на выходные.",
+      "usage_note_ru": "В других контекстах означает также «уйти», «сбежать».",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "recharge",
+      "english": "recharge",
+      "part_of_speech": "verb",
+      "category": "positive",
+      "translations_ru": [
+        "восстановить силы",
+        "зарядиться энергией",
+        "отдохнуть и набраться сил",
+        "восполнить энергию",
+        "перезагрузиться"
+      ],
+      "example_en": "A weekend in the mountains helped me recharge.",
+      "example_ru": "Выходные в горах помогли мне восстановить силы.",
+      "usage_note_ru": "В путешествиях часто recharge your batteries — «восстановить силы».",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "soak-up",
+      "english": "soak up",
+      "part_of_speech": "phrasal verb",
+      "category": "positive",
+      "translations_ru": [
+        "наслаждаться",
+        "впитывать",
+        "погружаться в атмосферу",
+        "наслаждаться солнцем",
+        "греться на солнце",
+        "вбирать в себя впечатления"
+      ],
+      "example_en": "We sat outside and soaked up the sunshine.",
+      "example_ru": "Мы сидели на улице и наслаждались солнечными лучами.",
+      "usage_note_ru": "Soak up the atmosphere — «впитывать атмосферу»; soak up the sun — «греться на солнце».",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "dull",
+      "english": "dull",
+      "part_of_speech": "adjective",
+      "category": "negative",
+      "translations_ru": [
+        "скучный",
+        "унылый",
+        "неинтересный",
+        "однообразный",
+        "тусклый",
+        "невзрачный"
+      ],
+      "example_en": "The town seemed dull after sunset.",
+      "example_ru": "После заката город казался скучным.",
+      "usage_note_ru": "Также о цвете, свете или погоде: «тусклый», «пасмурный».",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "overcrowded",
+      "english": "overcrowded",
+      "part_of_speech": "adjective",
+      "category": "negative",
+      "translations_ru": [
+        "переполненный",
+        "битком набитый",
+        "слишком многолюдный",
+        "заполненный до отказа",
+        "перенаселённый",
+        "слишком тесный из-за большого количества людей"
+      ],
+      "example_en": "The beach was overcrowded in August.",
+      "example_ru": "В августе пляж был переполнен людьми.",
+      "usage_note_ru": "Об избытке людей в туристических местах.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "overrated",
+      "english": "overrated",
+      "part_of_speech": "adjective",
+      "category": "negative",
+      "translations_ru": [
+        "переоценённый",
+        "незаслуженно расхваленный",
+        "не оправдывающий ожиданий",
+        "не оправдывающий шумихи",
+        "получивший слишком высокую оценку"
+      ],
+      "example_en": "I thought the famous attraction was overrated.",
+      "example_ru": "Мне показалось, что знаменитая достопримечательность переоценена.",
+      "usage_note_ru": "О месте, репутация которого, по мнению говорящего, выше его реальных достоинств.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "pricey",
+      "english": "pricey",
+      "part_of_speech": "adjective",
+      "category": "negative",
+      "translations_ru": [
+        "дорогой",
+        "дороговатый",
+        "недешёвый",
+        "дорогостоящий",
+        "затратный",
+        "с высокими ценами"
+      ],
+      "example_en": "The hotels near the beach are quite pricey.",
+      "example_ru": "Отели рядом с пляжем довольно дорогие.",
+      "usage_note_ru": "Разговорное слово; часто мягче, чем expensive.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "run-down",
+      "english": "run-down",
+      "part_of_speech": "adjective",
+      "category": "negative",
+      "translations_ru": [
+        "обветшалый",
+        "запущенный",
+        "обшарпанный",
+        "пришедший в упадок",
+        "ветхий",
+        "захудалый"
+      ],
+      "example_en": "We stayed in a run-down hotel.",
+      "example_ru": "Мы остановились в обветшалом отеле.",
+      "usage_note_ru": "О здании или районе в плохом состоянии.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "soulless",
+      "english": "soulless",
+      "part_of_speech": "adjective",
+      "category": "negative",
+      "translations_ru": [
+        "бездушный",
+        "лишённый души",
+        "безликий",
+        "лишённый характера",
+        "неуютный",
+        "лишённый атмосферы"
+      ],
+      "example_en": "The new shopping district felt soulless.",
+      "example_ru": "Новый торговый район казался безликим.",
+      "usage_note_ru": "О местах без индивидуальности или особой атмосферы.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "spoilt",
+      "english": "spoilt",
+      "part_of_speech": "adjective / past participle",
+      "category": "negative",
+      "translations_ru": [
+        "испорченный",
+        "изуродованный",
+        "потерявший первоначальную красоту",
+        "нарушенный",
+        "испорченный чрезмерной застройкой",
+        "испорченный массовым туризмом"
+      ],
+      "example_en": "The coastline has been spoilt by large hotels.",
+      "example_ru": "Побережье испортили большие отели.",
+      "usage_note_ru": "В теме путешествий часто о природе и местах; американское написание spoiled.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "tacky",
+      "english": "tacky",
+      "part_of_speech": "adjective",
+      "category": "negative",
+      "translations_ru": [
+        "безвкусный",
+        "аляповатый",
+        "пошлый",
+        "дешёвый на вид",
+        "китчевый",
+        "вычурный"
+      ],
+      "example_en": "The souvenir shops sold tacky decorations.",
+      "example_ru": "В сувенирных магазинах продавались безвкусные украшения.",
+      "usage_note_ru": "О дешёвом или безвкусном оформлении, сувенирах, заведениях.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "touristy",
+      "english": "touristy",
+      "part_of_speech": "adjective",
+      "category": "negative",
+      "translations_ru": [
+        "слишком туристический",
+        "переполненный туристами",
+        "ориентированный исключительно на туристов",
+        "коммерциализированный для туристов",
+        "утративший местный колорит из-за туризма",
+        "туристический"
+      ],
+      "example_en": "The harbour is beautiful but a bit touristy.",
+      "example_ru": "Гавань красивая, но немного слишком туристическая.",
+      "usage_note_ru": "В отличие от нейтрального tourist / tourist-related, часто содержит оттенок неодобрения.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "unimposing",
+      "english": "unimposing",
+      "part_of_speech": "adjective",
+      "category": "negative",
+      "translations_ru": [
+        "невнушительный",
+        "не производящий сильного впечатления",
+        "неприметный",
+        "скромный с виду",
+        "неброский",
+        "невыразительный"
+      ],
+      "example_en": "The museum has an unimposing entrance.",
+      "example_ru": "У музея неприметный вход.",
+      "usage_note_ru": "Не всегда отрицательное: может означать просто «скромный», «неброский».",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "remote",
+      "english": "remote",
+      "part_of_speech": "adjective",
+      "category": "neutral",
+      "translations_ru": [
+        "отдалённый",
+        "удалённый",
+        "труднодоступный",
+        "уединённый",
+        "глухой",
+        "находящийся далеко от населённых пунктов"
+      ],
+      "example_en": "We rented a cottage in a remote valley.",
+      "example_ru": "Мы сняли домик в уединённой долине.",
+      "usage_note_ru": "Может быть плюсом (тишина) или минусом (сложно добраться).",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "extend",
+      "english": "extend",
+      "part_of_speech": "verb",
+      "category": "neutral",
+      "translations_ru": [
+        "продлить",
+        "увеличить продолжительность",
+        "продлить пребывание",
+        "остаться подольше",
+        "увеличить срок",
+        "расширить (маршрут)"
+      ],
+      "example_en": "We decided to extend our holiday by three days.",
+      "example_ru": "Мы решили продлить отпуск на три дня.",
+      "usage_note_ru": "Extend a trip/stay/holiday — продлить поездку/пребывание/отпуск.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "go",
+      "english": "go",
+      "part_of_speech": "verb",
+      "category": "neutral",
+      "translations_ru": [
+        "идти",
+        "ехать",
+        "отправляться",
+        "поехать",
+        "пойти",
+        "посетить (в сочетании go to)"
+      ],
+      "example_en": "We plan to go to Edinburgh by train.",
+      "example_ru": "Мы планируем поехать в Эдинбург на поезде.",
+      "usage_note_ru": "Основной смысл зависит от транспорта и конструкции: go to, go by, go abroad.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "go-on",
+      "english": "go on",
+      "part_of_speech": "phrasal verb / verb + preposition",
+      "category": "neutral",
+      "translations_ru": [
+        "отправиться в (поездку)",
+        "поехать в (отпуск)",
+        "отправиться на (экскурсию)",
+        "совершить (путешествие)",
+        "пойти на (прогулку)"
+      ],
+      "example_en": "They went on a guided tour of the city.",
+      "example_ru": "Они отправились на экскурсию по городу с гидом.",
+      "usage_note_ru": "В теме путешествий go on a trip/holiday/tour. Без дополнения go on может значить «продолжаться», «продолжать».",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "hit",
+      "english": "hit",
+      "part_of_speech": "verb",
+      "category": "neutral",
+      "translations_ru": [
+        "отправиться к (месту)",
+        "направиться в (место)",
+        "посетить",
+        "побывать в",
+        "выехать на (дорогу)",
+        "добраться до (места)"
+      ],
+      "example_en": "We hit the beach as soon as we arrived.",
+      "example_ru": "Мы отправились на пляж сразу по прибытии.",
+      "usage_note_ru": "Разговорные конструкции hit the beach, hit the road, hit the shops; в других контекстах «ударить».",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "postpone",
+      "english": "postpone",
+      "part_of_speech": "verb",
+      "category": "neutral",
+      "translations_ru": [
+        "отложить",
+        "перенести на более поздний срок",
+        "отсрочить",
+        "перенести дату",
+        "повременить с",
+        "откладывать"
+      ],
+      "example_en": "We had to postpone the trip until spring.",
+      "example_ru": "Нам пришлось отложить поездку до весны.",
+      "usage_note_ru": "Postpone a trip/flight/holiday; не путать с cancel («отменить»).",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "sample",
+      "english": "sample",
+      "part_of_speech": "verb",
+      "category": "neutral",
+      "translations_ru": [
+        "попробовать",
+        "продегустировать",
+        "отведать",
+        "ознакомиться на собственном опыте",
+        "испробовать",
+        "попробовать на вкус"
+      ],
+      "example_en": "We sampled local cheeses at the market.",
+      "example_ru": "На рынке мы попробовали местные сыры.",
+      "usage_note_ru": "Часто о местной еде, напитках и новых впечатлениях.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "set-off",
+      "english": "set off",
+      "part_of_speech": "phrasal verb",
+      "category": "neutral",
+      "translations_ru": [
+        "отправиться в путь",
+        "выехать",
+        "тронуться",
+        "пуститься в дорогу",
+        "отправляться",
+        "начать путешествие"
+      ],
+      "example_en": "We set off early to avoid traffic.",
+      "example_ru": "Мы выехали рано, чтобы избежать пробок.",
+      "usage_note_ru": "В контексте путешествий — начать путь; другие значения здесь не рассматриваются.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    },
+    {
+      "id": "wander-round",
+      "english": "wander round",
+      "part_of_speech": "phrasal verb",
+      "category": "neutral",
+      "translations_ru": [
+        "бродить",
+        "прогуливаться",
+        "гулять без определённой цели",
+        "побродить вокруг",
+        "осматривать неспешно",
+        "слоняться"
+      ],
+      "example_en": "We wandered round the old town for hours.",
+      "example_ru": "Мы часами бродили по старому городу.",
+      "usage_note_ru": "Британское round; также wander around. Может быть приятной прогулкой или бесцельным хождением.",
+      "tags": [
+        "travel",
+        "uhi-esol"
+      ]
+    }
+  ]
+}
