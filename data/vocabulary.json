@@ -631,6 +631,55 @@
         "travel",
         "uhi-esol"
       ]
+    },
+    {
+      "id": "notable",
+      "english": "notable",
+      "part_of_speech": "adjective",
+      "category": "neutral",
+      "translations_ru": [
+        "заметный",
+        "примечательный",
+        "заслуживающий внимания"
+      ],
+      "example_en": "The test summary highlighted a notable improvement in response time.",
+      "example_ru": "В итоговом отчёте о тестировании отметили заметное сокращение времени отклика.",
+      "usage_note_ru": "Подчёркивает, что что-то выделяется и заслуживает внимания. Например, a notable difference — заметное различие.",
+      "tags": [
+        "software-testing"
+      ]
+    },
+    {
+      "id": "encompasses",
+      "english": "encompasses",
+      "part_of_speech": "verb",
+      "category": "neutral",
+      "translations_ru": [
+        "охватывает",
+        "включает в себя"
+      ],
+      "example_en": "The test plan encompasses all stages of testing.",
+      "example_ru": "План тестирования охватывает все этапы тестирования.",
+      "usage_note_ru": "Форма третьего лица единственного числа глагола encompass. Обычно употребляется, когда речь идёт об охвате нескольких областей, этапов или тем.",
+      "tags": [
+        "software-testing"
+      ]
+    },
+    {
+      "id": "rectification",
+      "english": "rectification",
+      "part_of_speech": "noun",
+      "category": "neutral",
+      "translations_ru": [
+        "исправление",
+        "устранение"
+      ],
+      "example_en": "The team verified the rectification of the defect before closing the issue.",
+      "example_ru": "Перед закрытием задачи команда убедилась, что дефект устранён.",
+      "usage_note_ru": "Формальное слово. Rectification of an error — исправление ошибки, rectification of a defect — устранение дефекта.",
+      "tags": [
+        "software-testing"
+      ]
     }
   ]
 }
