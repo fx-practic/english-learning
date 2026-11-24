@@ -680,6 +680,23 @@
       "tags": [
         "software-testing"
       ]
+    },
+    {
+      "id": "overarching",
+      "english": "overarching",
+      "part_of_speech": "adjective",
+      "category": "neutral",
+      "translations_ru": [
+        "всеобъемлющий",
+        "общий",
+        "главный"
+      ],
+      "example_en": "The overarching goal of quality assurance is to ensure that the product meets customer expectations.",
+      "example_ru": "Главная цель обеспечения качества — гарантировать, что продукт соответствует ожиданиям клиента.",
+      "usage_note_ru": "Обычно пишется слитно: overarching; также встречается over-arching. Употребляется о главной цели, стратегии или принципе, охватывающем все остальные аспекты.",
+      "tags": [
+        "software-testing"
+      ]
     }
   ]
 }
