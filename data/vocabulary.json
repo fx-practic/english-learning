@@ -784,6 +784,59 @@
         "comparison",
         "quality"
       ]
+    },
+    {
+      "id": "amused",
+      "english": "amused",
+      "part_of_speech": "adjective",
+      "category": "positive",
+      "translations_ru": [
+        "позабавленный",
+        "развеселившийся",
+        "которому смешно"
+      ],
+      "example_en": "She looked amused by his reply.",
+      "example_ru": "Похоже, его ответ её позабавил.",
+      "usage_note_ru": "О реакции человека на что-то забавное. Amused by something — «что-то позабавило». Amused look — выражение лица, по которому видно, что человеку смешно.",
+      "tags": [
+        "emotions"
+      ]
+    },
+    {
+      "id": "amuse",
+      "english": "amuse",
+      "part_of_speech": "verb",
+      "category": "positive",
+      "translations_ru": [
+        "забавлять",
+        "смешить",
+        "развлекать"
+      ],
+      "example_en": "His silly faces amused the children.",
+      "example_ru": "Его смешные гримасы развеселили детей.",
+      "usage_note_ru": "Переходный глагол. Amuse someone — позабавить или развлечь кого-либо. Amuse yourself — найти себе развлечение или занятие.",
+      "tags": [
+        "emotions",
+        "entertainment"
+      ]
+    },
+    {
+      "id": "amusement",
+      "english": "amusement",
+      "part_of_speech": "noun",
+      "category": "positive",
+      "translations_ru": [
+        "веселье",
+        "забава",
+        "развлечение"
+      ],
+      "example_en": "To our amusement, the dog tried to carry three sticks at once.",
+      "example_ru": "Нас позабавило, что собака пыталась нести сразу три палки.",
+      "usage_note_ru": "Может обозначать весёлую реакцию или развлечение. To our amusement — «нас позабавило». Amusement park — парк аттракционов.",
+      "tags": [
+        "emotions",
+        "entertainment"
+      ]
     }
   ]
 }
