@@ -748,6 +748,24 @@
       "tags": [
         "movement"
       ]
+    },
+    {
+      "id": "whereby",
+      "english": "whereby",
+      "part_of_speech": "relative adverb",
+      "category": "neutral",
+      "translations_ru": [
+        "посредством которого",
+        "с помощью которого",
+        "при котором"
+      ],
+      "example_en": "The team introduced a process whereby every bug fix is checked by a second tester.",
+      "example_ru": "Команда ввела процедуру, при которой каждое исправление ошибки проверяет второй тестировщик.",
+      "usage_note_ru": "Употребляется преимущественно в формальной речи после слов вроде process, system или agreement. Вводит пояснение о том, как что-либо происходит или устроено.",
+      "tags": [
+        "software-testing",
+        "formal-english"
+      ]
     }
   ]
 }
