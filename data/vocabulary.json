@@ -697,6 +697,57 @@
       "tags": [
         "software-testing"
       ]
+    },
+    {
+      "id": "stroll",
+      "english": "stroll",
+      "part_of_speech": "verb / noun",
+      "category": "neutral",
+      "translations_ru": [
+        "прогуливаться",
+        "неспешно идти",
+        "неспешная прогулка"
+      ],
+      "example_en": "We strolled along the river after dinner.",
+      "example_ru": "После ужина мы неспешно прогулялись вдоль реки.",
+      "usage_note_ru": "О спокойной прогулке, часто ради удовольствия. Go for a stroll — пойти прогуляться.",
+      "tags": [
+        "movement"
+      ]
+    },
+    {
+      "id": "gallop",
+      "english": "gallop",
+      "part_of_speech": "verb / noun",
+      "category": "neutral",
+      "translations_ru": [
+        "скакать галопом",
+        "мчаться галопом",
+        "галоп"
+      ],
+      "example_en": "The horse galloped across the field.",
+      "example_ru": "Лошадь проскакала галопом через поле.",
+      "usage_note_ru": "О быстром аллюре лошади. At a gallop — галопом. В разговорной речи может также означать «мчаться».",
+      "tags": [
+        "movement"
+      ]
+    },
+    {
+      "id": "saunter",
+      "english": "saunter",
+      "part_of_speech": "verb / noun",
+      "category": "neutral",
+      "translations_ru": [
+        "идти не спеша",
+        "прогуливаться вразвалку",
+        "неторопливая прогулка"
+      ],
+      "example_en": "He sauntered into the room with his hands in his pockets.",
+      "example_ru": "Он неторопливо вошёл в комнату, держа руки в карманах.",
+      "usage_note_ru": "Подчёркивает расслабленную, непринуждённую манеру ходьбы. В отличие от stroll, может описывать то, как человек входит в помещение.",
+      "tags": [
+        "movement"
+      ]
     }
   ]
 }
