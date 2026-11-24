@@ -1,0 +1,2 @@
+STRING Please use the GitHub connector to add the English words and phrases below to https://github.com/fx-practic/english-learning/blob/main/data/vocabulary.json. Follow the existing entry format, including Russian translations and a paired English and Russian example. Keep existing entries, skip duplicates, and confirm what you added.
+SHIFT ENTER
