@@ -766,6 +766,24 @@
         "software-testing",
         "formal-english"
       ]
+    },
+    {
+      "id": "inferior",
+      "english": "inferior",
+      "part_of_speech": "adjective",
+      "category": "negative",
+      "translations_ru": [
+        "уступающий по качеству",
+        "хуже",
+        "низшего качества"
+      ],
+      "example_en": "The cheaper replacement was inferior to the original.",
+      "example_ru": "Более дешёвая замена уступала оригиналу по качеству.",
+      "usage_note_ru": "Для сравнения употребляется inferior to. Inferior quality — низкое качество. Слово также может обозначать более низкое положение или ранг.",
+      "tags": [
+        "comparison",
+        "quality"
+      ]
     }
   ]
 }
