@@ -837,6 +837,25 @@
         "emotions",
         "entertainment"
       ]
+    },
+    {
+      "id": "flaunted",
+      "english": "flaunted",
+      "part_of_speech": "verb (past tense / past participle)",
+      "category": "negative",
+      "translations_ru": [
+        "выставлял напоказ",
+        "хвастался",
+        "демонстративно показывал",
+        "щеголял"
+      ],
+      "example_en": "He flaunted his wealth by driving expensive cars.",
+      "example_ru": "Он выставлял своё богатство напоказ, разъезжая на дорогих автомобилях.",
+      "usage_note_ru": "Прошедшая форма и причастие прошедшего времени глагола flaunt — выставлять напоказ, хвастаться. Часто имеет неодобрительный оттенок. Не путать с flout — открыто нарушать правила.",
+      "tags": [
+        "behaviour",
+        "social-interaction"
+      ]
     }
   ]
 }
